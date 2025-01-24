@@ -14,7 +14,7 @@ CodeChef Visualizer enhances your GitHub profile by dynamically extracting data 
 # Installation
 1. Star this repository :pray:
 2. Create a copy of this repository by clicking
-   [here](https://github.com/GaurishIIITNR/cc-visualizer/fork).
+   [here](https://github.com/akash66219/cc-visualizer/fork).
 4. Go to [user_name.java](src/main/java/com/ccvisualizer/ccvisualizer/user_name.java) and put your codechef handle in the `username` key.
 5. Go to the [Actions Page](../../actions/workflows/main.yml) and press "Run Workflow" on the
    right side of the screen to generate images for the first time.
